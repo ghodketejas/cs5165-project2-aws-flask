@@ -202,7 +202,7 @@ sudo apt install python3-pip
 sudo apt install sqlite3
 sudo systemctl restart apache2
 ```
-![1771120676728](image/README/1771120676728.png)![1771120680517](image/README/1771120680517.png)![1771120681655](image/README/1771120681655.png)![1771120681849](image/README/1771120681849.png)
+
 ---
 
 # Conclusion
